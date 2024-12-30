@@ -1,4 +1,4 @@
-# Flood Analysis Using Python
+# Flood Analysis Using Python🌊 🌍 
 
 ## Project Overview
 This project focuses on analyzing river dynamics and flood risks using Python. By creating a Relative Elevation Model (REM) from Digital Elevation Models (DEMs), we visualize and understand how elevation changes can impact flood behavior. The analysis leverages various Python libraries to manipulate geospatial data, perform interpolation, and visualize results effectively. For a deeper understanding of river dynamics analysis, check out this article: [Effortless River Dynamics Analysis: Mastering Flood Modeling with Just 30 Lines of Python](https://mathengeken.hashnode.dev/effortless-river-dynamics-analysis-mastering-flood-modeling-with-just-30-lines-of-python).
@@ -27,7 +27,7 @@ This project focuses on analyzing river dynamics and flood risks using Python. B
    - Stacked the hillshade and REM images into a composite visualization.
    - Saved the final visualization as an image file.
 
-## Skills Learned
+## Skills Learned  📕 
 - **Data Manipulation**: Gained proficiency in using `numpy` and `pandas` for handling and processing geospatial data.
 - **Geocoding**: Learned how to extract geographical features using the `osmnx` library.
 - **Spatial Interpolation**: Developed skills in interpolating spatial data with KD-trees, enhancing accuracy in elevation estimates.
